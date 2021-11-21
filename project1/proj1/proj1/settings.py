@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_rkv&uxpyofe@=7(h3qxk21kk(dx5rs@!nrgn2n)gcg80i0u*)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','marksheetgenerator.herokuapp.com/']
 
 
 # Application definition
